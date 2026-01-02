@@ -1,2 +1,2 @@
-# <a href="https://afoninis.github.io/Natours/">Natours</a>
+# <a href="https://steelaura.github.io/Natours/">Natours</a>
 Landing page for Natours project (courses)
